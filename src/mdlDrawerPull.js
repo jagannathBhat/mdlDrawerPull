@@ -1,3 +1,11 @@
+/*
+Plugin for ripple effect.
+
+Creates a ripple animation on applied HTML elements on click.
+
+This project is licensed under the terms of the GNU GPLv3 license.
+A copy of the lisence will be found in the root directory of the project as "LICENSE.txt"
+*/
 window.onload = function() {
   sideMenu = document.createElement("div");
   sideMenu.setAttribute("id", "jbSideMenu");
