@@ -1,7 +1,9 @@
 /*
-Plugin for ripple effect.
+Plugin for MDL Drawer Pull.
 
-Creates a ripple animation on applied HTML elements on click.
+Enables the drawer to be opened by pulling (swiping) it from the left side. A behavior which is commonly seen in Android apps.
+
+This works only alongside the Material Design Lite framework by Google.
 
 This project is licensed under the terms of the GNU GPLv3 license.
 A copy of the lisence will be found in the root directory of the project as "LICENSE.txt"
